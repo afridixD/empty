@@ -1,3 +1,3 @@
-# jn-01
+# chrome_dino
 
-This is the first game I'm about to complete entirely. Jn, in the title Jn-01 stands for June and 01 stands for first as I have started to put effor in developing this game and focus on a project. It's a 2D top down game build with unity game engine. This game is being completely build by me. 
+This is just a copy of the actual chrom dino game. Solely made as a fun learning project and so that someone I love can game on their device.
